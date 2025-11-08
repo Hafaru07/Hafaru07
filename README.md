@@ -12,8 +12,8 @@ Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui teknologi.
 
 ## 🌐 Hubungi Saya
-- 📧 Email: [email kamu]
-- 🚀 Media Sosial: [media sosial kamu]
+- 📧 Email: [hafarudev@gmail.com]
+- 🚀 Media Sosial: [@Hanif_Farhan]
 - 💻 GitHub: [https://github.com/Hafaru07](https://github.com/Hafaru07)
 @Hafaru07
 Comment
