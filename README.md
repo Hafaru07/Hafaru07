@@ -1,19 +1,16 @@
-# 👋 Halo, Saya Hanif Farhan N!
-Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
-Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
+# Hello, Im Hafaru
+I'm an indie developer (excited to join a team) 
+I like learning about automation, 3D design, and backend (API).
 
-## 💡 Minat Saya
-- Pengembangan Web (HTML, CSS, JavaScript)
-- Pemrograman Backend (PHP, Laravel)
-- Database dan API
+## I Like Doing
+- Web Development
+- Backend Programming
+- Database and API
 - Cloud Computing
 
-## 🎯 Tujuan Saya
-Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui teknologi.
-
-## 🌐 Hubungi Saya
-- 📧 Email: [hafarudev@gmail.com]
-- 🚀 Media Sosial: [@Hanif_Farhan]
-- 💻 GitHub: [https://github.com/Hafaru07](https://github.com/Hafaru07)
+## My Contact
+- 📧 Email: hafarudev@gmail.com
+- 🚀 Media Sosial: @Hanif_Farhan
+- 💻 GitHub: https://github.com/Hafaru07 (https://github.com/Hafaru07)
 @Hafaru07
 Comment
